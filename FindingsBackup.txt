@@ -1,0 +1,100 @@
+0|Cordoba Santiago|0|0|0
+0|Huracan Ar.|0|0|0
+1|Rosario|5|10|1.00
+1|Instituto|2|9|0.90
+2|Racing Club|10|30|1.03
+2|Banfield|12|32|1.10
+3|Temperley|0|3|1.00
+3|Almirante Brown|1|4|1.33
+4|Ind.Rivadavia|0|1|1.00
+4|Cd Maipu|0|1|1.00
+5|Dep.Santamarina|1|3|3.00
+5|Cipolletti|0|1|1.00
+6|Broadmeadow Magic|10|36|1.71
+6|Newcastle Olympic |8|32|1.52
+7|Charlestown|3|23|1.35
+7|Maitland|9|40|2.35
+8|Edgeworth Eagles|14|43|2.39
+8|Weston Workers|4|17|0.94
+9|Lake Macquarie|8|25|1.92
+9|Adamstown Rosebud|4|19|1.46
+10|Real Tomayapo|0|3|0.50
+10|Bolivar|5|13|2.17
+11|Blooming |0|1|1.00
+11|Vaca Diez|1|2|2.00
+12|Betim|0|0|0
+12|Aymores|0|0|0
+13|America Mineiro |3|8|0.67
+13|Corinthians |5|12|1.00
+14|Atletico PR |18|49|1.36
+14|Botafogo |11|44|1.22
+15|Cruzeiro|30|103|1.45
+15|Atletico Mineiro|24|89|1.25
+16|Santos|12|44|1.07
+16|Internacional|14|47|1.15
+17|Abc Rn|0|0|0
+17|Novorizontino|0|0|0
+18|Mirassol|4|17|1.21
+18|Ponte Preta |6|22|1.57
+19|Villa Nova|4|12|1.00
+19|Sampaio Correa|5|13|1.08
+20|Brusque|3|11|2.75
+20|Remo|1|5|1.25
+21|Alagoinhas|9|31|1.55
+21|Bahia Feira|6|26|1.30
+22|Anapolis|0|0|0
+22|Rondonopolis|0|0|0
+23|Cruzeiro AL|0|0|0
+23|Sergipe|0|0|0
+24|Ferroviaria|0|0|0
+24|CRAC|0|0|0
+25|Patrocinense|0|0|0
+25|Maringa|0|0|0
+26|Portuguesa RJ|0|0|0
+26|Santo Andre|0|0|0
+27|Pacajus CE|0|0|0
+27|Potiguar RN|0|0|0
+28|Parnahyba|0|0|0
+28|Cordino|0|0|0
+29|Mushuc Runa|5|10|1.00
+29|Orense SC|0|1|0.10
+30|B.Guayaquil|19|62|1.00
+30|Emelec|19|59|0.95
+31|Sanfrecce Hiroshima|0|0|0
+31|Kyoto Purple Sanga|0|0|0
+32|Oita Trinita|4|25|1.67
+32|Kofu|8|33|2.20
+33|Tokyo Verdy|2|11|1.57
+33|Vegalta Sendai|2|11|1.57
+34|Gainare Tottori|5|22|1.83
+34|Gifu|5|18|1.50
+35|Osaka|0|0|0
+35|Parceiro N.|0|0|0
+36|Toyama|7|17|1.70
+36|Kamatamare|2|7|0.70
+37|Vanraure|0|1|0.25
+37|Tegevajaro|4|7|1.75
+38|Cavalry|6|22|1.05
+38|Forge|10|27|1.29
+39|Atletico Ottawa|6|20|1.54
+39|HFX Wanderers|4|17|1.31
+40|Independiente Medelin|10|30|1.00
+40|Chico|11|35|1.17
+41|Millionarios|16|55|1.49
+41|America Cali|11|41|1.11
+42|Quindio|16|52|1.68
+42|Real Cartagena|6|34|1.10
+43|Atlante|0|0|0
+43|Tapatio|0|0|0
+44|Sportivo Ameliano|4|7|1.40
+44|General Caballero|1|2|0.40
+45|Nacional A.|14|36|1.80
+45|Tacuary|5|14|0.70
+46|Dep.Municipal|5|18|1.38
+46|Alianza Atl.|5|18|1.38
+47|Binacional|2|11|1.83
+47|Carlos Mannucci|4|11|1.83
+48|Dep.Garcilaso|0|0|0
+48|Union Comercio|0|0|0
+49|Seattle|20|85|1.57
+49|Portland|23|88|1.63

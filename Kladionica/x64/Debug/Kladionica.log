@@ -1,0 +1,6 @@
+﻿  Kladionica.cpp
+C:\Fakultet\Fazi logički sistemi\fudbalKladionica\Kladionica\Kladionica\Kladionica.cpp(268,23): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Fakultet\Fazi logički sistemi\fudbalKladionica\Kladionica\Kladionica\Kladionica.cpp(274,27): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Fakultet\Fazi logički sistemi\fudbalKladionica\Kladionica\Kladionica\Kladionica.cpp(275,36): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Fakultet\Fazi logički sistemi\fudbalKladionica\Kladionica\Kladionica\Kladionica.cpp(279,27): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  Kladionica.vcxproj -> C:\Fakultet\Fazi logički sistemi\fudbalKladionica\Kladionica\x64\Debug\Kladionica.exe
